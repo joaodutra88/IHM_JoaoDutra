@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+img {
+    width: 60vw;
+    margin: 1vw;
+    ;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {}
+
+strong em {
+    color: red;
+}
+
+#missao {
+    font-size: 20px;
+}
+
+
+.item {
+    font-style: italic;
+}
+
+.apresentacao__principal {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2vw;
+    background-color: goldenrod;
+}
+
+.apresentacao__beneficios {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: start;
+    padding: 2vw;
+    background-color: beige;
+}
+
+footer{
+    padding: 10vh;
+    text-align: center;
+    font-size: 80%rem;
+}
